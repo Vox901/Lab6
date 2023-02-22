@@ -16,6 +16,12 @@
 	<h2>Группа</h2>
 	<p>ИСП-411</p>   
 
+<<<<<<< HEAD
 	<button>Подписаться на новости</button>	
+	
+	<button>Войти через социальные сети</button>	
+=======
+	<button class="btn btn-primary" >Подписаться на новости</button>	
+>>>>>>> button-color
   </body>
 </html>
